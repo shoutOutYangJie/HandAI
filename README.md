@@ -17,6 +17,8 @@ Numpy
 Pillow  
 
 # Exhibitions
+A video demo can be found at [here](https://www.bilibili.com/video/av80620533) 
+  
 ![one](https://github.com/shoutOutYangJie/HandAI/blob/master/pictures/one.gif)
 ![two](https://github.com/shoutOutYangJie/HandAI/blob/master/pictures/two.gif)
 ![four](https://github.com/shoutOutYangJie/HandAI/blob/master/pictures/four.gif)
